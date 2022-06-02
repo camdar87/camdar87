@@ -5,7 +5,11 @@
   <br><br>
 </p>
 
-### From `https://giphy.com/gifs/loop-work-programmer-11ZSwQNWba4YF2`
+
+- From New Zealand.
+- Studying a bachelor of information technology.
+- Technology/languages I use. Unreal Engine `4.27.2`,Node.js,Mongodb,Heroku,React,java script,C#, 
+- GIF From `https://giphy.com/gifs/loop-work-programmer-11ZSwQNWba4YF2`
 
 <!--
 
