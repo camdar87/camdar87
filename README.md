@@ -7,11 +7,7 @@
 
 
 - From New Zealand.
-- Studying a bachelor of information technology.
-- Technology/languages I use. Unreal Engine `4.27.2`,Node.js,Mongodb,Heroku,React,java script,C#.
-- I have learned networking using cisco packet tracer GNS3 and networking hardware.
-- Have used Azure,AWS.
-- I have used Linux systems. 
+
 - GIF From `https://giphy.com/gifs/loop-work-programmer-11ZSwQNWba4YF2`
 
 <!--
@@ -28,4 +24,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- Studying a bachelor of information technology.
+- Technology/languages I use. Unreal Engine `4.27.2`,Node.js,Mongodb,Heroku,React,java script,C#.
+- I have learned networking using cisco packet tracer GNS3 and networking hardware.
+- Have used Azure,AWS.
+- I have used Linux systems. 
 -->
