@@ -1,14 +1,12 @@
 ### Hi there 👋 I am Cameron.
 
-<p align="center">
-  <img src="https://media4.giphy.com/media/11ZSwQNWba4YF2/giphy.gif?cid=ecf05e4791iianpywjfz656s05vve0ndbtvfbylhygv32qg0&rid=giphy.gif&ct=g)" width="25%">
-  <br><br>
-</p>
+
 
 
 - From New Zealand.
+- Student
 
-- GIF From `https://giphy.com/gifs/loop-work-programmer-11ZSwQNWba4YF2`
+
 
 <!--
 
