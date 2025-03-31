@@ -1,10 +1,15 @@
-### Hi there 👋 I am Cameron.
+### Hey! 👋  
 
+I'm Cameron, a recent grad from Dunedin, New Zealand, building on what I’ve learned and getting deeper into **DevOps, security, networking, and system architecture**—basically, making sure things don’t break (or fixing them when they do).  
 
+- **Programming Languages & Frameworks:** JavaScript (React, JSX), C#, Python, Shell Script, PowerShell, PHP  
+- **DevOps Tools:** Docker, GitHub Actions, Puppet, Nagios  
+- **Virtualization & Systems:** XEN, QEMU, Linux, Windows  
+- **Cloud Platforms:** Azure, AWS, GCP, Catalyst cloud
+- **Networking & Infrastructure:** Networking, automation, backend systems, keeping infrastructure running smoothly
+- **Game Development:** Unreal Engine, Unity
+- Also got experience in full-stack dev and managing deployments.  
 
-
-- From New Zealand.
-- Student
 
 
 
