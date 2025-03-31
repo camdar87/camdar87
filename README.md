@@ -1,6 +1,6 @@
 ### Hey! 👋  
 
-I'm Cameron, a recent grad from Dunedin, New Zealand, building on what I’ve learned and getting deeper into **DevOps, security, networking, and system architecture**—basically, making sure things don’t break (or fixing them when they do).  
+I'm Cameron, a recent grad from Dunedin, New Zealand, building on what I’ve learned and getting deeper into **DevOps, security, networking, and system architecture**—focused on keeping systems stable and solving problems when things go wrong.   
 
 - **Programming Languages & Frameworks:** JavaScript (React, JSX), C#, Python, Shell Script, PowerShell, PHP  
 - **DevOps Tools:** Docker, GitHub Actions, Puppet, Nagios  
